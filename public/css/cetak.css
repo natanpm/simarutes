@@ -1,0 +1,28 @@
+.identitasSurat {
+    display: inline-block;
+    width: 100px;
+}
+
+.badanSuratNumber {
+    display: inline-block;
+    width: 15px;
+}
+
+.listDetailPekerjaan {
+    padding-left: 100px;
+    margin: 0px;
+}
+
+.tabListDetail {
+    display: inline-block;
+    width: 150px;
+}
+
+.tabListPetugas {
+    padding-left: 280px;
+}
+
+.tabFooterSurat {
+    display: inline-block;
+    width: 80px;
+}
